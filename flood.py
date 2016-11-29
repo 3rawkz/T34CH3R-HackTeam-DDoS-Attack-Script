@@ -1,4 +1,7 @@
 import sys, socket, time, random
+#TCP-Flood Attacker By T34CH3R HackTeam
+#Ver 0.2
+#We Are Legion.
 def fuckPacket_Main(host):
 	print "-=]T34CH3R HackTeam DDoS Attack Python Script[=-"
 	print "            -=]We Are Legion.[=-"
